@@ -1,4 +1,4 @@
-# Blog-Post
+# Photo-Gallary
 ## Author
 
 [Joseph-Odhiambo](https://github.com/Joseph-Odhiambo)
