@@ -9,6 +9,7 @@ This  is a django application that allows Users to view different kinds of photo
 ## Live Link
 [View Site]()
 
+
 ## Screenshots
 ### Home Page
 <img src="" width="800px" height="400px">
@@ -37,7 +38,7 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Joseph-Odhiambo/
+  https://github.com/Joseph-Odhiambo/Gallary.git
   ```
 2. Move to the folder and install requirements
   ```bash
