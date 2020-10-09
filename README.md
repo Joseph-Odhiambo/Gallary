@@ -42,7 +42,7 @@ To get the code..
   ```
 2. Move to the folder and install requirements
   ```bash
-  cd 
+  cd Gallary
   pip install -r requirements.txt
   ```
 3. Set up your database
