@@ -11,13 +11,16 @@ This  is a django application that allows Users to view different kinds of photo
 
 
 ## Screenshots
+<hr>
+
 ### Home Page
-<img src="" width="800px" height="400px">
+<img src="https://github.com/Joseph-Odhiambo/Gallary/blob/master/static/images/view/home.png?raw=true" width="800px" height="400px">
+
+### Photo My Photo Gallery
+<img src="https://github.com/Joseph-Odhiambo/Gallary/blob/master/static/images/view/descriptions.png?raw=true" width="800px" height="400px">
 
 ### Photo Description
-<img src="" width="800px" height="400px">
-
-
+<img src="https://github.com/Joseph-Odhiambo/Gallary/blob/master/static/images/view/photoes.png?raw=true" width="800px" height="400px">
 
 
 
