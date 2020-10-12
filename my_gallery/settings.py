@@ -93,7 +93,7 @@ WSGI_APPLICATION = 'my_gallery.wsgi.application'
 #     }
 # }
 # development
-if config('MODE')=="dev":
+if config('MODE')=="prod":
    DATABASES = {
        'default': {
            'ENGINE': 'django.db.backends.postgresql_psycopg2',
